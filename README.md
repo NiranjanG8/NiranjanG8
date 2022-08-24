@@ -4,6 +4,25 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ <a href="https://www.linkedin.com/in/niranjan-g-876b11193/">LinkedIn</a>
 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=niranjan-g-876b11193" target="_blank">Follow on LinkedIn</a>
+
 
 <a href="https://app.daily.dev/NiranjanG"><img src="https://api.daily.dev/devcards/6f96802023c94f97a1f608a57fce4343.png?r=oay" width="400" alt="NIRANJAN G's Dev Card"/></a>
 <!---
