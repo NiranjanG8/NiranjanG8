@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @NiranjanG8
-- 👀 I’m interested in Programming ...
-- 🌱 I’m currently learning all CS stuff ...
-- 💞️ I’m looking to collaborate on ...
+# 👋 Hi, I'm Niranjan
+
+🚀 Python Developer  
+📺 Creator of LG Mission Control  
+🔐 Interested in Automation & Security  
+
+## 🔥 Featured Projects
+
+- 📺 LG Mission Control – Desktop WebOS remote controller
+- 🛠 Automation scripts
+- 🔍 Security practice labs
+
 - 📫 How to reach me @ <a href="https://www.linkedin.com/in/niranjan-g-876b11193/">LinkedIn</a>
 
    
