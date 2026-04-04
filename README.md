@@ -1,19 +1,61 @@
 # 👋 Hi, I'm Niranjan
 
 🚀 Python Developer  
-📺 Creator of LG Mission Control  
-🔐 Interested in Automation & Security  
+🤖 Building AI-powered desktop systems  
+🔐 Interested in Automation, Security & Local AI  
+
+---
 
 ## 🔥 Featured Projects
 
-- 📺 LG Mission Control – Desktop WebOS remote controller
-- 🛠 Automation scripts
-- 🔍 Security practice labs
+### 🤖 AIRA – AI Desktop Voice Assistant  
+A Jarvis-style AI assistant for Windows with voice + UI + local LLM support  
+- 🎤 Voice + typed commands  
+- 🌐 Multilingual (EN, Hindi, Kannada, Telugu)  
+- ⚡ Hybrid STT (Google + Vosk offline)  
+- 🔊 Smart TTS (Cloud + Piper + Windows fallback)  
+- 🧠 Local LLMs via Ollama + optional OpenAI  
 
-- 📫 How to reach me @ <a href="https://www.linkedin.com/in/niranjan-g-876b11193/">LinkedIn</a>
+🔗 https://github.com/NiranjanG8/A.I.R.A  
 
-<a href="https://app.daily.dev/niranjang"><img src="https://api.daily.dev/devcards/v2/102zbpUqtDNOedT6QYugu.png?r=i32&type=wide" width="652" alt="NIRANJAN G's Dev Card"/></a>
+---
+
+### 📺 LG Mission Control  
+Desktop WebOS remote controller  
+
+---
+
+### 🛠 Automation Scripts  
+Useful scripts for daily productivity and system tasks  
+
+---
+
+### 🔍 Security Practice Labs  
+Hands-on experiments and learning in security  
+
+---
+
+## 🧠 What I’m Exploring
+
+- Local AI systems (offline-first assistants)  
+- Voice interfaces & human-computer interaction  
+- Automation tools for real-world usage  
+- LLM integration (Ollama, OpenAI)  
+
+---
+
+## 📫 Connect with me
+
+🔗 <a href="https://www.linkedin.com/in/niranjan-g-876b11193/">LinkedIn</a>
+
+---
+
+<a href="https://app.daily.dev/niranjang">
+  <img src="https://api.daily.dev/devcards/v2/102zbpUqtDNOedT6QYugu.png?r=i32&type=wide" width="652" alt="NIRANJAN G's Dev Card"/>
+</a>
+
+---
+
 <!---
-NiranjanG8/NiranjanG8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+NiranjanG8/NiranjanG8 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
