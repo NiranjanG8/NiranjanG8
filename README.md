@@ -23,16 +23,7 @@ A Jarvis-style AI assistant for Windows with voice + UI + local LLM support
 ### 📺 LG Mission Control  
 Desktop WebOS remote controller  
 
-🔗 https://github.com/NiranjanG8/lg-mission-control
----
-
-### 🛠 Automation Scripts  
-Useful scripts for daily productivity and system tasks  
-
----
-
-### 🔍 Security Practice Labs  
-Hands-on experiments and learning in security  
+🔗 https://github.com/NiranjanG8/A.I.R.A  
 
 ---
 
